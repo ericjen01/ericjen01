@@ -2,7 +2,7 @@
 
 
 
-**About me**
+**About Me**
 
 I'm a self-taught FrontEnd developer living in Vancouver. There are countless of talented people around the world sharing their creativities and inspirations in webdev and I am really grateful for being able to learn from the community. My passion for webdev lies with turning ideas into elegant interfaces through various languages and tools. I seek to learn continuously to improve thearchitecture and quality of the things I build.
 
@@ -11,6 +11,12 @@ I'm a self-taught FrontEnd developer living in Vancouver. There are countless of
 - 👨🏽‍💻 I’m currently learning: Vue & React etac 
 - 🎯 My goal: continue to sharpen my skills in webdev
 - 📮 Reach me at ---> *under construction*
+
+**Languages & Tools:**
+
+<code><img height="30" src="https://github.com/ericjen01/ericjen01/blob/main/assets/html.png"></code> 
+<code><img height="30" src="https://github.com/ericjen01/ericjen01/blob/main/assets/css.png"></code> 
+<code><img height="30" src="https://github.com/ericjen01/ericjen01/blob/main/assets/js.png"></code> 
 
 <!---
 ericjen01/ericjen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
