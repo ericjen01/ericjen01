@@ -1,4 +1,4 @@
-<p> align="center"><a href="https://ericjen01.github.io"><img width="70%" scr="./assets/handle01"></a></p>
+<p align="center"><a href="https://ericjen01.github.io"><img width="70%" scr="./assets/handle01.png"></a></p>
 
 - 👋 Hi, I’m @ericjen01
 - 👀 I’m interested in ...
